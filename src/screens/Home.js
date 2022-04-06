@@ -49,7 +49,7 @@ const Home = ({route, navigation}) => {
                     <ScrollView>
                     <View style={styles.Header}>
                         <View style={styles.Box1}><Text style={styles.TextHeader}>Notas</Text></View>
-                        <View style={styles.Box2}><Icon style={styles.iconHeader} name="search" size ={30} color= "white" /></View>
+                        <View style={styles.Box2}></View>
                         <View style={styles.Box3}>
                             <TouchableOpacity onPress={() => navigation.navigate('ChangeNotes', {
                                 notes,
