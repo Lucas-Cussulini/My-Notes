@@ -12,7 +12,7 @@
 - Home – Apresenta as notas e caso não tenha nenhuma nota criada há uma tela que diga para criar notas e assim verá elas.
 
 <div align="center">
-<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/My-Notes/blob/Main/Prints_Readme/Home.png">![image](https://user-images.githubusercontent.com/82481017/162014207-47440e93-5d5d-483a-b997-765449f488c2.png)
+<img width="326" alt="Tela_Home" src="https://github.com/Lucas-Cussulini/My-Notes/blob/Main/Prints_Readme/Home.png">
 </div>
 
 - ChangeNotes – Contém os inputs para que seja digitado as informações da nota que o usuário deseja criar. Essa tela é acessada quando o usuário pressiona um dos dois botões “Plus” contidos na tela Home.
